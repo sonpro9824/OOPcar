@@ -5,7 +5,7 @@ using System.Text;
 
 namespace OOPcar
 {
-    public class Customer
+    public class Customer : Person
     {
     }
 }
